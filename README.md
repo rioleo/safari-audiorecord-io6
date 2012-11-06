@@ -6,4 +6,4 @@ This hack lets you record audio into a web app on iOS6 Safari. It's very much a 
 
 Author
 ---------------------
-This was built by Rio Akasaka (@rioakasaka) and first made available in November 2012.
+This was built by Rio Akasaka (@rioakasaka) and first made available in November 2012. The file upload example was built using http://www.script-tutorials.com/pure-html5-file-upload/ and the CSS play button was generated from http://cssdeck.com/labs/amazing-play-button-in-css3. The wave waveform is generated in SVG using code from https://github.com/afreiday/php-waveform-svg/edit/master/php-waveform-svg.php.
