@@ -17,6 +17,6 @@ echo <<<EOF
 <p>Your file: {$sFileName} has been successsfully received.</p>
 <p>Type: {$sFileType}</p>
 <p>Size: {$sFileSize}</p>
-<p>You can play back the audio <a href="http://www.stanford.edu/~rakasaka/cgi-bin/cs147/week7/upload-example/wave_form.php">here</a></p>
+<p>You can play back the audio <a href="wave_form.php">here</a></p>
 EOF;
 ?>
