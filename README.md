@@ -5,6 +5,7 @@ This hack lets you record audio into a web app on iOS6 Safari. It's very much a 
 
 Video
 ---------------------
+for more information see 
 http://www.youtube.com/watch?v=L8-HZbWMtEQ
 
 
